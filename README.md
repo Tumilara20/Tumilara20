@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Tumilara20
-- 👀 I’m interested in ui/ux design
-- 🌱 I’m currently learning ui/ux design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, you can send me an email tumilara03@gmail.com
+ 👋 Hi, I’m @Tumilara20, an entry-level UI/UX designer with a deep passion for creating user-friendly digital experiences. My journey into UI/UX design has been driven by a genuine curiosity about user behavior and a commitment to making technology more intuitive.
 
-<!---
-Tumilara20/Tumilara20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What sets me apart is my eagerness to learn and adapt to the ever-changing design landscape. I believe in constantly improving my skills and staying up-to-date with the latest trends. Beyond my work, I'm dedicated to mentoring and supporting aspiring designers.
+
+As I continue to grow in this field, I'm excited to make a meaningful impact and contribute to the world of design.
+
+
